@@ -91,5 +91,5 @@ Released under the **MIT License** — free for educational and professional use
 ---
 
 **Author:** Vishakanan Sivarajah
-**GitHub:** [github.com/<your-username>/employee-attrition-analysis](https://github.com/)
+**GitHub:**(https://github.com/Vishakanan/Employee-Attrition-Analysis---Data-Driven-HR-Insights.git)
 **Project Type:** Data Analytics / HR Visualization
